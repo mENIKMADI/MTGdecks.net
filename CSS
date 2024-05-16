@@ -1,0 +1,53 @@
+* {
+    color: black;
+    box-sizing: border-box;
+    text-decoration-line: none;
+   
+}
+
+.norb {
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+.chorf {
+    padding: 10px;
+    border : 2px solid rgba(76, 107, 75, 0.271);
+    margin: 5px;
+    background-color: lightgray;
+    width: auto;
+    height: auto;
+    
+}
+
+/* commit to clean code by keeping the orders of my arguments the same */
+
+/* .flex-container {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: lightgray;
+    width: fit-content;
+    height: fit-content;
+} */
+
+.choob {
+    display: inline-block;
+}
+
+/* start copy and pasting the arguments into each element to keep the code clean and consistent */
+
+/* figure out how to set the enter button to have the same sizing, styling, and characteristics of the input along with the placing it on the same plane as the input field for visual appeal */
+
+/* if I create a class, anytime I use that class the information I'm associating it to will change. However, if I don't add a "class" or "id" to the content than it'll use the asterisk selectors parameters */
+
+/* id gets a "#" selector; class gets "." selector */
+
+/* figure out if the order in which I apply margin, border, and padding should follow a specific standard...Is it important? */
+
+/* the asterisk selector will apply a style(s) to any element on a webpage */
+
+/* Remember the text-decoration-line: none; argument in the general section to remove the line from underneath links..its handy */
+
+ /* get in the habit of including box-sizing in all of the CSS that I write to respect the width and heights of the elements; it also saves the users from having to do tedious math */
+
